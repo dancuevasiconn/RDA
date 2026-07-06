@@ -1,0 +1,17 @@
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
