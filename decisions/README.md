@@ -24,7 +24,7 @@ El ADR debe responder:
 ¿Qué consecuencias se aceptan?
 ¿Qué controles o acciones quedan pendientes?
 ¿Qué artefactos deben actualizarse?
-
+```
 --- 
 
 # Qué debe considerarse una decisión arquitectónica
